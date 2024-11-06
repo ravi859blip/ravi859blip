@@ -1,7 +1,9 @@
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)]
+
 <h1 align="center">Hi there 👋 I'm Ravi Shripad</h1>
 <h3 align="center">A passionate Data Science | AI Enthusiast | Student from India</h3>
 I'm passionate about applying data science and artificial intelligence to solve real-world problems. My GitHub is a showcase of my journey, projects, and continuous learning in this exciting field.
-img align="right" alt="Coding" width="400" src="https://www.binarycode.co.nz/wp-content/uploads/2023/03/Custom-ChatGPT-Web-Apps-and-Mobile-Applications.gif">
+<img align="right" alt="Coding" width="400" src="https://www.binarycode.co.nz/wp-content/uploads/2023/03/Custom-ChatGPT-Web-Apps-and-Mobile-Applications.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi859blip&label=Profile%20views&color=0e75b6&style=flat" alt="ravi859blip" /> </p>
 
